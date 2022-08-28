@@ -1,5 +1,4 @@
 # Yinsh_Game
-
 The project aims to design an Agent that can play Yinsh games. [YINSH](https://en.wikipedia.org/wiki/YINSH) is an abstract strategy board game designed by game designer Kris Burm. It combines the rules of Othello and Gomoku. The player who removes three rings first will win, but as the rings decrease, the dominant side may be disadvantaged.
 
 # Game Interface
@@ -21,9 +20,7 @@ There are three give general agents that will work with any game under directory
 
 
 ## Usage
-
 The game can be run with specified runner. The only difference between runner is the first two line of the code (importing different game files.) The options can be found with following command:
-
 ```
 python yinsh_runner.py -h
 ```
@@ -31,7 +28,6 @@ python yinsh_runner.py -h
 If running Sequence, note that the game will start in fullscreen mode. Press F11 to toggle fullscreen. The game's activity log now appears as a separate window.
 
 ## Feature
-
 - save the print as log
 - save replay
 - play saved replay file
