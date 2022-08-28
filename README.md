@@ -33,6 +33,12 @@ If running Sequence, note that the game will start in fullscreen mode. Press F11
 - play saved replay file
 - run multiple games in sequential
 
+## Run
+
+To run the simulator and the algorithms, please use the following code, it will use the Reinforcement learning agent to compete with the baseline model:
+
+`python yinsh_runner.py --teal agents.t_029.player --magenta agents.example_bfs -p`
+
 # Contribute
 
 [Havefun 404](https://github.com/Havefun404)

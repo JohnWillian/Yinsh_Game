@@ -20,8 +20,9 @@ sys.path.append('agents/t_029/')
 
 THINKTIME = 0.90
 
-# python yinsh_runner.py --teal agents.t_029.RL_BFS --magenta agents.example_bfs -p
-# python yinsh_runner.py --teal agents.t_029.reinforce_competitor --magenta agents.t_029.reinforce_train -q -m 30
+# python yinsh_runner.py --teal agents.example_bfs --magenta agents.t_029.player -p
+# -q: running quitly
+# -m 10: running 10 rounds
 
 
 class myAgent():
