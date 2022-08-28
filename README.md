@@ -32,3 +32,10 @@ If running Sequence, note that the game will start in fullscreen mode. Press F11
 - save replay
 - play saved replay file
 - run multiple games in sequential
+
+# Contribute
+
+[Havefun 404](https://github.com/Havefun404)
+
+[jxz2021114](https://github.com/jxz2021114)
+
